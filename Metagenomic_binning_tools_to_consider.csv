@@ -1,13 +1,13 @@
 Tool,Year published,Tool category,Sequences binned,User interface,Programming language(s),Minimum length cut-off (bp),Composition,Abundance,Graphs,Other,Publication,Source code
 TETRA,2004,Binning,Fragments,Web GUI,,1000,Y,,,,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-163,
-CompostBin ,2008,Binning,Short reads,CLI,"C, Matlab",1000,Y,,,,https://link.springer.com/chapter/10.1007/978-3-540-78839-3_3,http://bobcat.genomecenter.ucdavis.edu/souravc/compostbin/ (not working)
+CompostBin ,2008,Binning,Short reads,CLI,"C, Matlab",1000,Y,,,,https://link.springer.com/chapter/10.1007/978-3-540-78839-3_3,http://bobcat.genomecenter.ucdavis.edu/souravc/compostbin/
 LikelyBin,2009,Binning,Short reads,CLI,"Perl, C",400,Y,,,,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-316,https://static-content.springer.com/esm/art%3A10.1186%2F1471-2105-10-316/MediaObjects/12859_2009_3046_MOESM4_ESM.ZIP
 MetaCluster 2.0,2010,Binning,Fragments,CLI,C,300,Y,,,,https://dl.acm.org/doi/10.1145/1854776.1854803,https://i.cs.hku.hk/~alse/MetaCluster/
 SCIMM,2010,Binning,Contigs and short reads,CLI,"Python, C, Matlab",400,Y,,,,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-544,https://www.cbcb.umd.edu/software/scimm/
 AbundanceBin,2011,Binning,Short reads,CLI,C++,75,,Y,,,https://www.liebertpub.com/doi/10.1089/cmb.2010.0245,https://omics.informatics.indiana.edu/AbundanceBin (not working)
 MetaCluster 3.0,2011,Binning,Short reads,CLI,C,500,Y,,,,https://academic.oup.com/bioinformatics/article/27/11/1489/219339?login=false,https://i.cs.hku.hk/~alse/MetaCluster/
 MetaWatt,2012,Binning,Contigs,Desktop GUI and CLI,Java,300,Y,Y,,,https://www.frontiersin.org/articles/10.3389/fmicb.2012.00410/full,https://sourceforge.net/projects/metawatt/
-MetaCluster 4.0,2012,Binning,Short reads,CLI,C,75,Y,Y,,,https://www.liebertpub.com/doi/10.1089/cmb.2011.0276,
+MetaCluster 4.0,2012,Binning,Short reads,CLI,C,75,Y,Y,,,https://www.liebertpub.com/doi/10.1089/cmb.2011.0276,https://i.cs.hku.hk/~alse/MetaCluster/
 MetaCluster 5.0,2012,Binning,Short reads,CLI,C,75,Y,Y,,,https://academic.oup.com/bioinformatics/article/28/18/i356/248051,https://i.cs.hku.hk/~alse/MetaCluster/
 2T-binning,2012,Binning,Contigs,,,,Y,,,,https://academic.oup.com/nar/article/40/5/e34/1101400?login=false,http://www.mech.unimelb.edu.au/2tbinning/ (not working)
 Blobology ,2013,Visualisation,,CLI,"Perl, R",,,,,,https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2013.00237/full,https://github.com/blaxterlab/blobology
@@ -19,7 +19,7 @@ MetaBAT,2015,Binning,Contigs,CLI,C++,2500,Y,Y,,,https://peerj.com/articles/1165/
 ABAWACA,2015,Binning,Scaffolds,CLI,C++,5000,Y,Y,,,https://www.nature.com/articles/nature14486,https://github.com/CK7/abawaca
 MBBC,2015,Binning,Short reads,Desktop GUI and CLI,Java,75,,Y,,,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0473-8,http://eecs.ucf.edu/~xiaoman/MBBC/MBBC.html
 VizBin,2015,Binning and visualisation,Contigs and long reads,Desktop GUI,Java,1000,Y,,,,https://link.springer.com/article/10.1186/s40168-014-0066-1,https://claczny.github.io/VizBin
-BiMeta,2015,Binning,Short reads,CLI,,,Y,,,,https://almob.biomedcentral.com/articles/10.1186/s13015-014-0030-4#citeas,
+BiMeta,2015,Binning,Short reads,CLI,,,Y,,,,https://almob.biomedcentral.com/articles/10.1186/s13015-014-0030-4,http://it.hcmute.edu.vn/bioinfo/bimeta/index.htm
 gbtools,2015,Visualisation,,CLI,"Perl, R",,,,,,https://www.frontiersin.org/articles/10.3389/fmicb.2015.01451/full,https://github.com/kbseah/genome-bin-tools
 CheckM,2015,Evaluation,,CLI,Python,,,,,,https://genome.cshlp.org/content/25/7/1043.full,https://github.com/Ecogenomics/CheckM
 BUSCO,2015,Evaluation,,CLI,Python,,,,,,https://academic.oup.com/bioinformatics/article/31/19/3210/211866,https://busco.ezlab.org/
@@ -53,9 +53,9 @@ SemiBin,2022,Binning,Contigs,CLI,Python,2500,Y,Y,,Must-link and cannot-link ,htt
 MetaCoAG,2022,Binning,Contigs,CLI,Python,1000,Y,Y,Assembly graph,Single-copy marker genes,https://www.liebertpub.com/doi/10.1089/cmb.2022.0262,https://github.com/metagentools/MetaCoAG
 RepBin,2022,Binning,Contigs,CLI,Python,,Y,Y,Assembly graph,Single-copy marker genes,https://cdn.aaai.org/ojs/20388/20388-13-24401-1-2-20220628.pdf,https://github.com/xuehansheng/RepBin
 MetaDecoder,2022,Binning,Contigs,CLI,Python,2500,Y,Y,,Single-copy marker genes,https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01237-8,https://github.com/liu-congcong/MetaDecoder/
-PHAMB,2022,Viral binning,Contigs,CLI,Python,,,,,,https://www.nature.com/articles/s41467-022-28581-5,
-LRBinner,2022,Binning,Long reads,CLI,"Python, C++",1000,Y,Y,,,https://link.springer.com/article/10.1186/s13015-022-00221-z,
-OBLR,2022,Binning,Long reads,CLI,"Python, C++",1000,Y,Y,Read overlap graph,,https://link.springer.com/chapter/10.1007/978-3-031-06220-9_15,
+PHAMB,2022,Viral binning,Contigs,CLI,Python,,,,,,https://www.nature.com/articles/s41467-022-28581-5,https://github.com/RasmussenLab/phamb
+LRBinner,2022,Binning,Long reads,CLI,"Python, C++",1000,Y,Y,,,https://link.springer.com/article/10.1186/s13015-022-00221-z,https://github.com/anuradhawick/LRBinner
+OBLR,2022,Binning,Long reads,CLI,"Python, C++",1000,Y,Y,Read overlap graph,,https://link.springer.com/chapter/10.1007/978-3-031-06220-9_15,https://github.com/anuradhawick/oblr
 GrapMB,2022,Binning,Contigs,CLI,Python,,Y,Y,Assembly graph,Single-copy marker genes,https://academic.oup.com/bioinformatics/article-abstract/38/19/4481/6668279,https://github.com/MicrobialDarkMatter/GraphMB
 CH-Bin,2022,Binning,Contigs,CLI,Python,1000,Y,Y,,Single-copy marker genes,https://www.sciencedirect.com/science/article/pii/S1476927122001141,https://github.com/kdsuneraavinash/CH-Bin
 HiCBin,2022,Binning,Contigs,CLI,Python,1000,,Y,Hi-C contact maps,,https://link.springer.com/article/10.1186/s13059-022-02626-w,https://github.com/dyxstat/HiCBin
