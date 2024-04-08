@@ -3,11 +3,11 @@ This repository contains the code and data used to analyse and plot metadata of 
 
 ## Overview
 
-Metagenomics is a field of study that focuses on analyzing genetic material directly from microbial communities in their natural environments. This approach has provided valuable insights into the structure, diversity, and ecology of these communities.
+Metagenomics is a field of study that focuses on analysing genetic material directly from microbial communities in their natural environments. This approach has provided valuable insights into the structure, diversity, and ecology of these communities.
 
 After sequencing and processing an environmental sample, metagenomic binning is used to cluster the sequences into bins that represent different taxonomic groups, such as species or genera. Several computational tools have been developed to automate this process, enabling the recovery of novel draft genomes of microorganisms. These tools allow researchers to study the behaviours and functions of these organisms within their microbial communities.
 
-This review classifies and analyzes various approaches to metagenomic binning, as well as the computational, visualization, and evaluation techniques used by these methods.
+This review classifies and analyses various approaches to metagenomic binning, as well as the refinement, visualisation, and evaluation techniques used by these methods.
 
 <p align="center">
   <img src="figures/Binning_reads_contigs.png" width="700">
