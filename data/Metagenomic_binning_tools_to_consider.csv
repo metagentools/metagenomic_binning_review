@@ -71,3 +71,4 @@ UGMAGrefiner,2023,Refiner,Unitigs,CLI,,,,,,,https://www.sciencedirect.com/scienc
 COMEBin,2024,Binning,Contigs,CLI,Python,1000,Y,Y,,Single-copy marker genes,https://www.nature.com/articles/s41467-023-44290-z,https://github.com/ziyewang/COMEBin
 BASALT,2024,Ensemble binner,Contigs,CLI,Python,,,,,,https://www.nature.com/articles/s41467-024-46539-7,https://github.com/EMBL-PKU/BASALT
 UnitigBIN,2024,Binning,Contigs,CLI,Python,,Y,Y,Assembly graph,Single-copy marker genes,https://openreview.net/forum?id=vBw8JGBJWj,https://github.com/xuehansheng/UnitigBIN
+hmBin,2024,Binning,Contigs,CLI,Python,,Y,Y,Assembly graph,,https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03234-6,https://github.com/xfengnefx/snpt_mtgncomp
