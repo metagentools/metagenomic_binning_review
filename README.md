@@ -23,4 +23,4 @@ The figure below summarises the tools found in [Metagenomic_binning_tools_to_con
 
 ## Citation
 
-The manuscript is currently in preparation.
+The manuscript is currently under review.
