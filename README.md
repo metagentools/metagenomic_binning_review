@@ -18,7 +18,7 @@ This review classifies and analyses various approaches to metagenomic binning, a
 The figure below summarises the tools found in [Metagenomic_binning_tools_to_consider.csv](https://github.com/metagentools/metagenomic_binning_review/blob/main/data/Metagenomic_binning_tools_to_consider.csv) which contains all the tools included in the review.
 
 <p align="center">
-  <img src="figures/Binning_tools_summarised.png" width="700">
+  <img src="figures/binning_tools_summarised.png" width="700">
 </p>
 
 ## Citation
