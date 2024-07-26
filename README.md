@@ -23,4 +23,4 @@ The figure below summarises the tools found in [Metagenomic_binning_tools_to_con
 
 ## Citation
 
-The review paper has been accepted for publication at Briefings in Bioinformatics. DOI: (10.1093/bib/bbae372)[https://doi.org/10.1093/bib/bbae372].
+The review paper has been accepted for publication at Briefings in Bioinformatics. DOI: [10.1093/bib/bbae372](https://doi.org/10.1093/bib/bbae372).
