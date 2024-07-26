@@ -9,7 +9,7 @@ MetaCluster 3.0,2011,Binning,Short reads,CLI,C,500,Y,,,,https://academic.oup.com
 MetaWatt,2012,Binning,Contigs,Desktop GUI and CLI,Java,300,Y,Y,,,https://www.frontiersin.org/articles/10.3389/fmicb.2012.00410/full,https://sourceforge.net/projects/metawatt/
 MetaCluster 4.0,2012,Binning,Short reads,CLI,C,75,Y,Y,,,https://www.liebertpub.com/doi/10.1089/cmb.2011.0276,https://i.cs.hku.hk/~alse/MetaCluster/
 MetaCluster 5.0,2012,Binning,Short reads,CLI,C,75,Y,Y,,,https://academic.oup.com/bioinformatics/article/28/18/i356/248051,https://i.cs.hku.hk/~alse/MetaCluster/
-2T-binning,2012,Binning,Contigs,,,,Y,,,,https://academic.oup.com/nar/article/40/5/e34/1101400?login=false,http://www.mech.unimelb.edu.au/2tbinning/ (not working)
+2Tbinning,2012,Binning,Contigs,,,,Y,,,,https://academic.oup.com/nar/article/40/5/e34/1101400?login=false,http://www.mech.unimelb.edu.au/2tbinning/ (not working)
 Blobology ,2013,Visualisation,,CLI,"Perl, R",,,,,,https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2013.00237/full,https://github.com/blaxterlab/blobology
 MaxBin ,2014,Binning,Contigs and scaffolds,CLI,"Perl, C++",1000,Y,Y,,Single-copy marker genes,https://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-2-26,https://sourceforge.net/projects/maxbin/
 CONCOCT,2014,Binning,Contigs,CLI,"Python, Perl, R",1000,Y,Y,,,https://www.nature.com/articles/nmeth.3103,https://github.com/BinPro/CONCOCT
