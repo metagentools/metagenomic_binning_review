@@ -1,4 +1,4 @@
-# Solving Genomic Puzzles: Computational Methods for Metagenomic Binning
+# Solving genomic puzzles: computational methods for metagenomic binning
 This repository contains the code and data used to analyse and plot metadata of metagenomic binning tools.
 
 ## Overview
