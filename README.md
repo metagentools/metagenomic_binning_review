@@ -23,9 +23,9 @@ The figure below summarises the tools found in [Metagenomic_binning_tools_to_con
 
 ## Citation
 
-The review paper has been published in [Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/5/bbae372/7724458). DOI: [10.1093/bib/bbae372](https://doi.org/10.1093/bib/bbae372). If you refer to this paper, please cite as follows.
+The review paper has been published in [Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/5/bbae372/7724458). DOI: [10.1093/bib/bbae372](https://doi.org/10.1093/bib/bbae372). If you refer to this paper, please cite it as follows.
 
-> Vijini Mallawaarachchi, Anuradha Wickramarachchi, Hansheng Xue, Bhavya Papudeshi, Susanna R Grigson, George Bouras, Rosa E Prahl, Anubhav Kaphle, Andrey Verich, Berenice Talamantes-Becerra, Elizabeth A Dinsdale and Robert A Edwards. Solving genomic puzzles: computational methods for metagenomic binning. Briefings in Bioinformatics, Volume 25, Issue 5, September 2024, bbae372, DOI: https://doi.org/10.1093/bioinformatics/btaa180
+> Vijini Mallawaarachchi, Anuradha Wickramarachchi, Hansheng Xue, Bhavya Papudeshi, Susanna R Grigson, George Bouras, Rosa E Prahl, Anubhav Kaphle, Andrey Verich, Berenice Talamantes-Becerra, Elizabeth A Dinsdale and Robert A Edwards. Solving genomic puzzles: computational methods for metagenomic binning. Briefings in Bioinformatics, Volume 25, Issue 5, September 2024, bbae372, DOI: https://doi.org/10.1093/bib/bbae372
 
 ```bibtex
 @article{10.1093/bib/bbae372,
